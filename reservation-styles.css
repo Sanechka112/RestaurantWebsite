@@ -13,11 +13,3 @@ body {
   font-style: normal;
   font-size: 1.35em;
 }
-
-.nav {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
