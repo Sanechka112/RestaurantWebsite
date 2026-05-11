@@ -65,7 +65,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin: 32px auto 32px auto;
+  margin: 10vw auto 10vw auto;
   gap: 32px;
 }
 
@@ -92,5 +92,13 @@ nav {
 ::-webkit-scrollbar-thumb {
   background: rgba(0,0,0,0.2);
   border-radius: 4px;
+}
+
+.menu {
+  display: grid;
+  margin-top: 10vw;
+}
+
+.menu-header {
 }
 
