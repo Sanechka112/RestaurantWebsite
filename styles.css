@@ -76,6 +76,7 @@ nav {
   border-radius: 20px;
   box-shadow: 0 0 30px 15px var(--back-color);
   margin-left: 4%;
+  object-fit: cover;
 }
 
 .restaurant-description {
